@@ -12,10 +12,10 @@ background-color: white;
     background-color: rgb(206, 202, 202);
 }
 .bg-color-green{
-    background-color: green;
+    background-color: rgb(17, 179, 125);
 }
 .bg-color-purple{
-    background-color: purple;
+    background-color: rgb(112, 14, 158);
 }
 .bg-color-yellow{
     background-color: rgb(255, 174, 0);
@@ -24,10 +24,10 @@ background-color: white;
     background-color: rgb(27, 147, 226);
 }
 .bg-color-lime{
-    background-color: rgb(0, 255, 0);
+    background-color: rgba(95, 206, 61, 0.747);
 }
 .bg-color-pink{
-    background-color: pink;
+    background-color: rgb(240, 28, 194);
 }
 /* classi posizione*/
 .logoTobo{
@@ -39,7 +39,7 @@ background-color: white;
 .mainT{
     width: 70%;
     margin: 0 auto;
-    padding: 50px;
+    padding: 25px;
 }
 .m-15{
     margin: 10px;
@@ -47,15 +47,21 @@ background-color: white;
 .p-15{
     padding: 10px;
 }
+/* bottoni*/
 button{
     padding: 5px;
 }
 .button{
     border-radius: 7px;
 }
+/* contenuto div*/
 .border{
     border-top-right-radius: 7px;
     border-top-left-radius: 7px;
+}
+.bb{
+    border-bottom-left-radius: 7px;
+    border-bottom-right-radius: 7px;
 }
 .bottom{
     border-bottom: solid 1px;
@@ -85,4 +91,7 @@ button{
   .not-check {
     border: 1px solid #ff0000;
     color: #ff0000;
+  }
+  .space{
+    padding: 3px;
   }
