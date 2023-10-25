@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* colori di background*/
+
+.bg-color-white{
+background-color: white;
+} 
+.bg-color-grey{
+    background-color: rgb(206, 202, 202);
+}
+.bg-color-green{
+    background-color: green;
+}
+.bg-color-purple{
+    background-color: purple;
+}
+.bg-color-yellow{
+    background-color: yellow;
+}
+.bg-color-blue{
+    background-color: blue;
+}
+.bg-color-lime{
+    background-color: lime;
+}
+.bg-color-pink{
+    background-color: pink;
+}
+.logoTobo{
+    padding: 10px;   
+}
+.headheight{
+    height: 70px;
+}
